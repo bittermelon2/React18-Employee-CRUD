@@ -1,1 +1,1 @@
-Employees can be added, updated, and deleted in this project. The technologies used were React 18 and Axios. The database used is Strapi.
+Employees can be added, updated, and deleted in this project. The technologies used were React 18 and Axios. The database used is Strapi. 23-src-CRUD-student-axios-strapi-async-edit-with-getStudentById is src folder
